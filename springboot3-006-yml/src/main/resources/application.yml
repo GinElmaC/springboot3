@@ -1,0 +1,8 @@
+#myapp.username=jackson
+#myapp.email=@jackson.com
+myapp:
+  username: |
+    aaa
+    vvv
+    ccc
+  email: '@jackson.com'

@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 1998229wang
+    url: jdbc:mysql://192.168.88.130:3306/mptest
+  data:
+    redis:
+      host: 192.168.88.130
+      port: 6379
+      database: 0
+      password: 111
+
+minio:
+  endpoint: http://192.168.88.130:9000
+  accessKey: "root"
+  secretKey: "1998229wang"
+  bucketName: "hello"

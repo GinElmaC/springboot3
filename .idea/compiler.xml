@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot3-004-junit" />
+        <module name="springboot3-008-SpringBootAndMyBatis" />
+        <module name="springboot3-016-WebServer" />
+        <module name="springboot3-002-usespringInitializr" />
+        <module name="springboot3-007-bindtobean" />
+        <module name="springboot3-005-properties-location" />
+        <module name="spring-003-userIDEAplugin" />
+        <module name="BuilderModule" />
+        <module name="demo" />
+        <module name="lombok" />
+        <module name="springboot3-001-first" />
+        <module name="springboot3-012-static-resource" />
+        <module name="springboot3-011-auto-configretion" />
+        <module name="springboot3-004-annotation" />
+        <module name="springboot3-006-yml" />
+      </profile>
+      <profile name="Annotation profile for springboot3-020-Resid-001" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Development/apache-maven-3.9.9/repository/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+          <entry name="$PROJECT_DIR$/../../Development/apache-maven-3.9.9/repository/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="springboot3-020-Resid-001" />
+        <module name="springboot3-009-mybatis-gennerate" />
+        <module name="springboot3-014-thymeleaf" />
+        <module name="springboot3-013-AcceptTalk" />
+        <module name="springboot3-015-exception" />
+        <module name="springboot3-010-SSM" />
+      </profile>
+      <profile name="Annotation profile for springboot3-redis" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../Development/apache-maven-3.9.9/repository/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="springboo3-021-mp" />
+        <module name="springboot3-redis" />
+        <module name="springboot3-018-tx" />
+        <module name="springboot3-019-log" />
+        <module name="springboot3-022-knife4" />
+        <module name="springboot3-017-pageHelper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot3-008-mybatis" target="23" />
+      <module name="springboot3-023-BloomFilter" target="23" />
+      <module name="springboot3-testboot" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="spring-003-userIDEAplugin" options="-parameters" />
+      <module name="springboo3-021-mp" options="-parameters" />
+      <module name="springboot3-001-first" options="-parameters" />
+      <module name="springboot3-002-usespringInitializr" options="-parameters" />
+      <module name="springboot3-004-annotation" options="-parameters" />
+      <module name="springboot3-004-junit" options="-parameters" />
+      <module name="springboot3-005-properties-location" options="-parameters" />
+      <module name="springboot3-006-yml" options="-parameters" />
+      <module name="springboot3-007-bindtobean" options="-parameters" />
+      <module name="springboot3-008-SpringBootAndMyBatis" options="-parameters" />
+      <module name="springboot3-008-mybatis" options="-parameters" />
+      <module name="springboot3-009-mybatis-gennerate" options="-parameters" />
+      <module name="springboot3-010-SSM" options="-parameters" />
+      <module name="springboot3-011-auto-configretion" options="-parameters" />
+      <module name="springboot3-012-static-resource" options="-parameters" />
+      <module name="springboot3-013-AcceptTalk" options="-parameters" />
+      <module name="springboot3-014-thymeleaf" options="-parameters" />
+      <module name="springboot3-015-exception" options="-parameters" />
+      <module name="springboot3-016-WebServer" options="-parameters" />
+      <module name="springboot3-017-pageHelper" options="-parameters" />
+      <module name="springboot3-018-tx" options="-parameters" />
+      <module name="springboot3-019-log" options="-parameters" />
+      <module name="springboot3-020-Resid-001" options="-parameters" />
+      <module name="springboot3-022-knife4" options="-parameters" />
+      <module name="springboot3-023-BloomFilter" options="-parameters" />
+      <module name="springboot3-redis" options="-parameters" />
+      <module name="springboot3-testboot" options="-parameters" />
+    </option>
+  </component>
+</project>

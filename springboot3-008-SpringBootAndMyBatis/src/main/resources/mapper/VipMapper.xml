@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.ginelmac.springboot3.repository.VipMapper" >
+    <insert id="insert">
+        insert into t_vip(id,name,card_number,birth) values (null,#{name},#{cardNumber},#{birth})
+    </insert>
+    <select id="selectAll" resultType="com.ginelmac.springboot3.Bean.Vip">
+        select * from t_vip
+    </select>
+</mapper>

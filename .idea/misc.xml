@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-001-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-001-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-002-usespringInitializr/springboot3-002-usespringInitializr/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-003-userIDEAplugin/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-004-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-004-junit/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-005-properties-location/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-006-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-007-bindtobean/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-008-SpringBootAndMyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-008-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderModule/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-009-mybatis-gennerate/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-010-SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-011-auto-configretion/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-012-static-resource/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-013-AcceptTalk/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-014-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-015-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-016-WebServer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-017-pageHelper/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-018-tx/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-019-log/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-020-Resid-001/pom.xml" />
+        <option value="$PROJECT_DIR$/springboo3-021-mp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-022-knife4/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-023-BloomFilter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-testboot/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot-001-feature/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-008-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-023-BloomFilter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-testboot/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

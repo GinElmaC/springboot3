@@ -1,0 +1,4 @@
+# Project exclude paths
+/BuilderModule/target/
+/lombok/target/
+/springboot3-001-first/target/

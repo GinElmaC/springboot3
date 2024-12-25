@@ -1,0 +1,36 @@
+myapp:
+  username: jackson
+  password: 123456
+  age: 20
+  gender: true
+
+app:
+  xyz:
+    name: lucy
+    address:
+      city: bj
+      street: changzheng
+appbean:
+  names:
+    - jack
+    - lucy
+  addresses:
+    - city: bj
+      street: chaoyang
+    - city: nn
+      street: abcdsett
+  addrList:
+    - city: b-j
+      street: chao-yang
+    - city: n-n
+      street: abcd-sett
+  addrs:
+    addr1:
+      city: bjMap
+      street: chaoyangMap
+    addr2:
+      city: nnMap
+      street: abcdsettMap
+outer:
+  id: 123
+  name: lucy
